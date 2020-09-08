@@ -3,7 +3,7 @@
     "name": "Iozsa Andrei",
     "occupation": "Python and ReactJS enthusiast",
     "description": "CS Student during the day, React developer by night",
-    "image": "Photo_Iozsa.jpeg",
+    "image": "Photo_Iozsa.jpg",
     "bio": "Hi, I'm Andrei, I'm a 2nd year CS student, I enjoy Python and recently I fell in love with front end, especially with React",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "iozsa.andrei@nomail.sus",
@@ -43,25 +43,13 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Polytehnic University of Timisoara",
+        "degree": "Automation and Computer Science",
+        "graduated": "July 2023",
+        "description": "Computers and Technology of Information"
       }
     ],
     "work": [
-      {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
-      }
     ],
     "skills": [
       {
@@ -70,39 +58,39 @@
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "100%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "100%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Python",
+        "level": "100%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "100%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Flask",
+        "level": "100%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "OmniFood",
+        "category": "Food delivery app made with JavaScript(JQuery)",
+        "image": "omnifood.png",
+        "url": "https://frosty-hopper-74f65a.netlify.app/#"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Fishy Movies",
+        "category": "Movie Comparator with Javascript",
+        "image": "movies.jpeg",
+        "url": "https://kind-payne-636892.netlify.app/"
       },
       {
         "title": "Facebook Clone with React",
@@ -127,12 +115,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "I stole the idea for Facebook from this guy. I hope nobody finds out",
+        "user": "Mark Zuckerberg"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I might be straight, but this guy makes my d very hard, he is the best developer and the most horny aswell. Give this guy a job or I will give him a job with my own hand",
+        "user": "Elon Musk"
       }
     ]
   }
