@@ -33,11 +33,13 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background-image: -webkit-linear-gradient(-45deg,rgba(154, 45, 168, 0.7), rgba(255, 255, 255, 0.7)), url(../images/header-background.jpg);
+   background-image: linear-gradient(-45deg,rgba(154, 45, 168, 0.7), rgba(255, 255, 255, 0.7)), url(../images/header-background.jpg);
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
+   background-attachment: fixed;
 }
 
 /* vertically center banner section */
@@ -318,7 +320,8 @@ ul#nav li.current a { color: #F06000; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: -webkit-linear-gradient(to right,rgba(154, 45, 168, 0.7), rgba(243, 22, 158, 0.7));
+   background: linear-gradient(to right,rgba(154, 45, 168, 0.7), rgba(243, 22, 158, 0.7));
    display: inline-block;
   	height: 42px;
    line-height: 42px;
